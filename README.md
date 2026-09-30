@@ -46,6 +46,6 @@ This project was created to strengthen my understanding of data structures, spec
 Author:
 
 Mason Skoglund
-Computer Science Student
-North Central College
+
+Computer Science Student | North Central College
 [LinkedIn](https://www.linkedin.com/in/mason-skoglund/) 
