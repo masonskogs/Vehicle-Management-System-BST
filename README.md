@@ -47,5 +47,5 @@ Author:
 
 Mason Skoglund
 
-Computer Science Student | North Central College
+Computer Science Student | North Central College |
 [LinkedIn](https://www.linkedin.com/in/mason-skoglund/) 
